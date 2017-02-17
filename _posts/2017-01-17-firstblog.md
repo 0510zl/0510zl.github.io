@@ -1,18 +1,18 @@
 ---
-author: kresnikwang
+author: lizzhang
 comments: true
-date: 2016-06-20 03:14:14+00:00
+date: 2017-02-17
 layout: post
-slug: new_start
-title: 新的开始
+slug: blog_start
+title: 博客的出发
 categories:
 - Journey
 tags:
-- 心情
-description: 新的开始
+- 记录
+description: 博客的出发
 ---
 
-##新的开始
+##博客的出发
 
 ----------
 今天是2016年6月20日，经过了大半年的旅途，今天开始在上海参加新的工作。这篇文章也正是用公司的电脑写下的。

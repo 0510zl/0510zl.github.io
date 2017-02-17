@@ -3,8 +3,11 @@
 paginate: 10 # pagination based on number of posts
 paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
-highlighter: pygments
-markdown: redcarpet
+highlighter: rogue
+markdown: kramdown
+disqus: dbyll
+google_analytics: dbyll
+title: dbyll
 encoding: utf-8
 
 defaults:
@@ -12,21 +15,24 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: K's Journey
+      title: liz's Blog
 
-description: Kresnik的随想和技术空间
+description: LizZhang的技术集中营
 author:
-  name: Kresnikwang
-  email: kresnikwang@gmail.com
-  github: kresnikwang
-  twitter: kresnikwang
-  instagram: kresnikwang
-  linkedin: kris-yanning-wang/88/a07/945
-  bio: Kresnik的随想和技术空间
-  email_md5: 2baf659d886c56f600e3df8b4b9068f1
+  name: lizzhang
+  email: 358527373@qq.com
+  github: 0510zl
+  bio: LizZhang的技术集中营
+  email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
 
+# set it as url of an image
+# sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
+
 BASE_PATH:
+
+gems:
+  - jekyll-paginate
