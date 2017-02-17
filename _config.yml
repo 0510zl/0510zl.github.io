@@ -3,11 +3,11 @@
 paginate: 10 # pagination based on number of posts
 paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
-highlighter: rogue
+highlighter: pygments
 markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
-title: dbyll
+
 encoding: utf-8
 
 defaults:
@@ -23,7 +23,7 @@ author:
   email: 358527373@qq.com
   github: 0510zl
   bio: LizZhang的技术集中营
-  email_md5: 726351295ec82e145928582f595aa3aa
+  email_md5: 2baf659d886c56f600e3df8b4b9068f1
 
 rss_path: feed.xml
 categories_path: categories.html
