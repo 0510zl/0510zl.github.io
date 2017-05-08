@@ -73,3 +73,6 @@ ajax直接读取数据没啥问题
 >window.location.href = 'http://' + location.hostname + '' + location.pathname + '?time=' + ((new Date()).getTime());
 
 
+
+### 最终效果：手机微信扫描
+![Alt text](http://tp.flyfund7.com/motherday24/images/1494235051.png "Optional title")
