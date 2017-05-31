@@ -1,3 +1,16 @@
+---
+author: lizzhang
+comments: true
+date: 2017-05-26
+layout: post
+slug: onlinetest
+title: 在线测试小游戏-spa单页应用
+categories:
+- Journey
+tags:
+- 项目总结
+description: spa单页应用移动端在线测试小游戏，首屏加载动画（音效、图片预加载）提高流畅的用户体验，转入配合css3动画和绚丽的引导页，3秒钟载入游戏介绍页配合动感的背景音乐，点击游戏按钮进入游戏页面json问题数据问题载入更加流畅、针对不同的选择，引导用户进入下一题、失败、成功、页面。配合微信sdk分享。更好友善可爱。
+---
 # 财富测试游戏：
 
 ### 需求：
