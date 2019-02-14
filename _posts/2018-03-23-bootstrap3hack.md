@@ -13,12 +13,12 @@ description: bootstrap3 ie兼容
 ---
 
 # bootstrap3 ie兼容
-
+-------------
 
 
 
 ### 1.这2个兼容js不被识别，然后莫名就被识别了，技术是不讲道理的
--------------
+
 ```
 <script src="https://cdn.bootcss.com/html5shiv/r29/html5.js"></script>
 <script src="https://cdn.bootcss.com/respond.js/1.4.2/respond.js"></script>
@@ -27,7 +27,7 @@ description: bootstrap3 ie兼容
 
 
 ### 2.ie hack 
--------------
+
 ##### 2-1 不支持box-sizing:border-box，重新定义width;
 
 ```
